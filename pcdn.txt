@@ -55,6 +55,8 @@ p2plive-ws.douyucdn.cn
 ||ts-p2p*pull*com
 ||hw-p2p*pull*com
 ||ali-p2p*pull*com
+|lhw-sh-pcdn-*.biliapi.net^
+
 ||ks-p2p*pull*com
 ||p2pup*.gamedl.qq.com
 ||qn-*pcdn.cdn.huya.com
