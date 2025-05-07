@@ -49,6 +49,7 @@ p2pvod-ws.douyucdn.cn
 p2plive-ali.douyucdn.cn
 p2plive-ws.douyucdn.cn
 ali-bj-pcdn-16.biliapi.net
+hw-sh-pcdn-08.biliapi.net
 
 
 
